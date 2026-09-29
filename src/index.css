@@ -1,0 +1,32 @@
+@import "tailwindcss";
+
+/* Next.js next/font ki jagah yahan CSS variables (fonts index.html me load hote hain) */
+:root {
+  --font-figtree-family: "Figtree", ui-sans-serif, system-ui, sans-serif;
+  --font-google-sans-flex: "Google Sans Flex", ui-sans-serif, system-ui, sans-serif;
+  --font-instrument-serif: "Instrument Serif", ui-serif, Georgia, serif;
+  --font-inter: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-satoshi: "Satoshi", ui-sans-serif, system-ui, sans-serif;
+  --font-dm-mono: "DM Mono", ui-monospace, monospace;
+}
+
+@theme inline {
+  --font-figtree: var(--font-figtree-family);
+  --font-googleSansFlex: var(--font-google-sans-flex);
+  --font-instrumentSerif: var(--font-instrument-serif);
+  --font-inter: var(--font-inter);
+  --font-satoshi: var(--font-satoshi);
+  --font-dMMono: var(--font-dm-mono);
+}
+
+html,
+body,
+#root {
+  margin: 0;
+  min-height: 100%;
+}
+
+body {
+  background: #fff;
+  -webkit-font-smoothing: antialiased;
+}
