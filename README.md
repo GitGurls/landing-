@@ -1,8 +1,5 @@
 
-## Images
-- Saari images `public/images/` se `/images/<naam>` ki tarah load hoti hain.
-- `npm run assets` Figma ke links se sab download kar deta hai, lekin ye links **7 din** hi chalte hain.
-- Agar wo fail ho, ya tum khud dalna chaho: Figma se export karke **same filename** ke saath `public/images/` me daal do.
+
   Filenames aur unke Figma links `scripts/assets.json` me hain.
 - 13 PNG hain (hero banner, logo avatar, card backgrounds), baaki 130 SVG (icons, cursor, character, dashboard illustration).
 
