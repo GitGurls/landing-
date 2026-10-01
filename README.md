@@ -1,11 +1,3 @@
-# CodeGeass Landing (React + Vite + Tailwind v4, TSX)
-
-## Chalane ke steps
-```bash
-npm install
-npm run assets   # Figma ke saare 143 images/SVGs public/images me download (optional, neeche dekho)
-npm run dev
-```
 
 ## Images
 - Saari images `public/images/` se `/images/<naam>` ki tarah load hoti hain.
