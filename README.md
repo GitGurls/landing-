@@ -1,4 +1,4 @@
 
 
 
-- Design 1440px fixed canvas hai 
+- Design 1440px fixed 
