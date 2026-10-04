@@ -1,4 +1,4 @@
 
 
 
-- Design 1440px fixed 
+- Design 1440px 
